@@ -48,7 +48,15 @@
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
   background-color: rgba(8, 8, 8, 0.6);
 }
+.fa-logo {
+  font-size:3em;
+  color: yellow;
 
+}
+.social-media {
+  margin-top: 300px;
+  margin-left: 15%;
+}
 .carousel-flex {
   display: flex;
   justify-content: center;
@@ -192,4 +200,7 @@ button.btn-warning {
 .nav-tabs.nav-justified>.active>a:hover {
   background-color: rgba(225, 225, 225, 0.2);
   border-color: transparent;
+}
+#contact {
+  margin-bottom: 100px
 }
